@@ -11,3 +11,7 @@ target/
 .project
 mall-admin/.factorypath
 .vscode/launch.json
+mall-backend.code-workspace
+mall-demo/.mvn/**
+mall-portal/.mvn/**
+mall-search/.mvn/**
